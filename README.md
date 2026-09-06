@@ -4,10 +4,7 @@
 
 SENTINEL-ML is a production-grade machine learning platform that unifies six independent risk detection systems, each modeled on a real-world use case from a major technology or financial company. The platform demonstrates an end-to-end ML engineering workflow: research notebooks, production Python packages, a REST API, and a live web dashboard, all built around the same architecture across every module.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> ffd16a6 (changes in app.js)
 
 
 
