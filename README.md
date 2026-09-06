@@ -20,15 +20,14 @@ SENTINEL-ML is an end-to-end machine learning platform that demonstrates a compl
 Every module in this repository follows this same four-layer structure, so the architecture is consistent regardless of which domain (finance, healthcare, manufacturing, cybersecurity) the module belongs to.
 
 ## Platform Statistics
-<<<<<<< HEAD
-=======
+
 
 - **17 models trained** across XGBoost, LightGBM, Random Forest, Isolation Forest, SVM, Gradient Boosting, Naive Bayes, and Logistic Regression
 - **2.7 million+ records** trained on, across five real-world public datasets
 - **SHAP explainability** included on every classification module, surfacing the exact features driving each prediction
 - **Business cost optimization** on 5 of 6 modules — decision thresholds tuned against real dollar cost matrices, not a default 0.5 cutoff
 - **6 independent production pipelines**, each with its own research notebooks, modular codebase, and REST API endpoint
->>>>>>> ffd16a6 (changes in app.js)
+
 
 - **17 models trained** across XGBoost, LightGBM, Random Forest, Isolation Forest, SVM, Gradient Boosting, Naive Bayes, and Logistic Regression
 - **2.7 million+ records** trained on, across five real-world public datasets
